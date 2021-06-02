@@ -34,7 +34,7 @@ six==1.15.0
 soupsieve==2.0.1
 Twisted==20.3.0
 ua-parser==0.10.0
-urllib3==1.25.9
+urllib3==1.26.5
 user-agents==2.1
 w3lib==1.22.0
 zope.interface==5.1.0
